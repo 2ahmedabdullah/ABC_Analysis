@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <img src="supply-chain-actors-2.png">
+   <img src="supply-chain-actors-2.jpg">
 </p>
 
 
