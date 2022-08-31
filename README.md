@@ -23,7 +23,7 @@ ABC analysis is an inventory management technique that determines the value of i
 ## Kraljic Matrix
 
 <p align="center">
-   <img src="img/The-Kraljic-Matrix.webp">
+   <img src="img/karljik.png">
 </p>
 
 The Kraljic matrix is a method for classifying and analysing the purchasing portfolio in order to guide the procurement strategy of companies. It is a tool for managing item categories for a company in relation to the market.
