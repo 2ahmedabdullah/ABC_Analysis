@@ -35,8 +35,7 @@ The Kraljic matrix is a method for classifying and analysing the purchasing port
    <img src="img/adicv2.png">
 </p>
 
-Syntetos et al categorizes the demand pattern for forecasting purpose into four smooth, erratic, intermittent and lumpy queries that are based on the cut-off value of p and v, where p is the average interdemandinterval(ADI) andvisthesquareof coefficient variation(CV2).Thecut-off valuefor p is 1.32 and
-v is 0.49.
+Syntetos et al categorizes the demand pattern for forecasting purpose into four smooth, erratic, intermittent and lumpy queries that are based on the cut-off value of p and v, where p is the average inter demand interval(ADI) and the square of coefficient variation(CV2).The cut-off valuefor p is 1.32 and v is 0.49.
 
 ## EOQ
 
